@@ -19,7 +19,7 @@ The agent uses embedded user insights (e.g. onboarding confusion, navigation cha
 - Insight-driven decision making  
 
 ## Demo Video
-PASTE YOUR YOUTUBE LINK HERE
 
+](https://youtu.be/nJpyu9zPzDo)
 ## Architecture
 User → HCD Agent (Microsoft Foundry) → Uses Instructions + Knowledge → Generates Structured Output
